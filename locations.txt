@@ -1,0 +1,434 @@
+LOCATION -1
+0
+START1
+That way is blocked.
+END1
+START2
+That way is blocked.
+END2
+START 3
+This place doesn't exist.
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 0
+0
+START1
+This study room is completely empty, and you're on the second floor. The staircase is to the east.
+END1
+START2
+You've got an important exam coming up this evening, and you've been studying for weeks. Last night was a particularly
+late night on campus. You had difficulty focusing, so rather than staying in one place, you studied in various places
+throughout campus as the night progressed. Unfortunately, when you woke up this morning, you were missing some important
+exam-related items. You cannot find your T-card, and you're nervous they won't let you into tonight's exam without it.
+Also, you seem to have misplaced your lucky exam pen -- even if they let you in, you can't possibly write with another
+pen! Finally, your instructor for the course lets you bring a cheat sheet - a handwritten page of information in the
+exam. Last night, you painstakingly crammed as much material onto a single page as humanly possible, but that's missing,
+too! All of this stuff must be around campus somewhere! Can you find all of it before your exam starts tonight and your
+score hits 0?
+
+You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this
+space? If you walk East you will get to the staircase to the first floor of Robarts.
+END2
+START3
+Huh...I guess there really is nothing to see here. It's all empty...was I even studying here??? Maybe I should stop
+wasting time looking around and just...go?
+END3
+
+
+
+
+
+
+LOCATION 1
+0
+START1
+You are on the first floor of the Robarts Library. There is a study room to the West and exit to the South.
+END1
+START2
+You are on the first floor of the Robarts Library. It's usually crowded at this time of the day, but today it's eerily
+quiet. Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands
+near the service desk, looking bored and sleepy. If you walk South you can exit Robarts.
+END2
+START3
+There are some blank papers on the counter over there. Maybe I left my cheat sheet-- nope. Not mine. That guy was just
+printing. Whoops. The librarian's been staring at me... Have I been standing here for too long?
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 2
+0
+START1
+You are outside the Robarts library.
+END1
+START2
+You are outside the Robarts library on a crowded street. There is a smell of coffee in the air. To the South is the
+famous hotdog stand.
+END2
+START3
+It's so cold out here. Did I forget my jacket too? That's crazy.
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 3
+0
+START1
+You are outside of Mama's best hotdog stand on St. George Street.
+END1
+START2
+You are outside of Mama's best hotdog stand on St. George Street. It's the iconic hotdog stand that everyone knows. The
+line for a hotdog is really long. If you head to the East, you can get to the main field, in front of campus. Or maybe
+South to McLennan Physical Laboratories? You're math skills *have* been a bit lacking recently...
+END2
+START3
+You're next in line. Hmm...what to order? You still don't have your T-Card, but maybe you could just pay with cash?
+Wait a second. What's that on the counter? Is that... your T-Card!! Forget hotdogs! You have an exam to take!!
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 4
+0
+START1
+You are in McLennan Physical Laboratories.
+END1
+START2
+You are in McLennan Physical Laboratories. Feel free to sit in and listen to one of the many MAT137 lectures while you
+are here. It's not like your exam time is approaching... If you head East, you will get to Myhall.
+END2
+START3
+Maybe you should stay for a MAT137 lecture? You did skip that last one...
+Oh! There's a sign on the door.
+'No eating'? Fine by me.
+Guess it's a good thing you never bought that hotdog!
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 5
+0
+START1
+You are in a passageway between the hotdog stand and the main field.
+END1
+START2
+You are in a passageway between the hotdog stand and the main field. If you head east you will get to the field and if
+you head west you will get back to the hotdog stand. If you continue south you will get to Myhall.
+END2
+START3
+Nothing to see here. Just a cold...narrow...dark-- Nah, just kidding. It's just a passageway. Carry on.
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 6
+0
+START1
+You are in the Myhall building.
+END1
+START2
+You are in the Myhall building. Normally the building is bustling with Engineering students and students lining up for
+coffee at the second cup on the second floor, but today it is quiet. If you go west, you will get to the McLennan
+building and if you head east you will get to Convocation hall...I think that astronomy class might be going on now.
+END2
+START3
+A girl is sitting along the bench next to you. She's in the same spot you were in while you studied earlier. Maybe
+you could ask her to move, so you can check it? She's shaking her head now...is that a no? Fine.
+Wait, there's something by her feet. Is that... your lucky pen!
+You should maybe go and pick it up now...
+Oh! She's picking it up for you, how kind...and she's keeping it.
+Yup, that's her pen. She was looking for her pen. Wrong pen...maybe you should go...
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 7
+0
+START1
+You are in Ned's cafe on the Victoria College campus.
+END1
+START2
+You are in Ned's cafe on the Victoria College campus. You can buy some snacks from the cafe or get any of your Vic
+friends to buy you some food using their meal plan. If you head south you will get to Victoria College's main building.
+END2
+START3
+There are a few people eating or studying at the tables, but nothing of note. Maybe you should just pick up a tiramisu
+cake for your troubles? Or maybe just a Diet Coke? They both have caffeine, so win-win right?
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 8
+0
+START1
+You have arrived at the main part of Victoria College at Old Vic.
+END1
+START2
+You have arrived at the main part of Victoria College at Old Vic. You are looking outside at the beautiful quad
+surrounded by old architecture. To the east is Burwash dining hall and if you head south you will get back to the
+main field on campus. There's also Ned's Cafe up north if you want a bite to eat.
+END2
+START3
+The castle really is beautiful! Maybe you should take a picture here, just for memories. I there's none of your items
+here, though, so maybe it would be best to keep moving...
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 9
+0
+START1
+You are in the main field in the middle of campus.
+END1
+START2
+You are in the main field in the middle of campus. If you look around you will see the beautiful skyline of downtown
+Toronto. You can also see the CN tower. If you continue to head south you will get to Convocation Hall and if you head
+north you will get to Victoria College. To your west is the passageway that leads to the hotdog stand.
+END2
+START3
+Do you wanna build a snowman~ Or ride a bike around the hall~~ Or maybe not the hall...the grass?? Eh, whatever. There's
+just snow here though...so...
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 10
+0
+START1
+You are now in Convocation Hall.
+END1
+START2
+You are now in Convocation Hall. There are many students here waiting for their lecture to begin. If you head north you
+will arrive at the field, if you head west you will get to Myhall, and if you head east then you will arrive at the road
+leading through the main gate, and to the exam center.
+END2
+START3
+Oh, it's AST201! It would be nice to sit and listen for a while. You always wanted to learn a little more about the
+universe...
+That seat, over there, looks comfy. It would make a nice study spot. A guy is sitting there though. Maybe you can
+just sit next to him.
+Looks like he dropped his pen. Maybe you'll just pick it up for him. If you could just reach...wait a minute...
+You know that pen!!
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 11
+0
+START1
+You have arrived at Burwash dining hall.
+END1
+START2
+You have arrived at Burwash dining hall. If you are living in Vic residence then you can stop here for a meal.
+Otherwise, you can ask one of your vic friends to use one of their guest passes so that you can have a meal. But since
+you are in a rush to get to your exam, you can head west and get back to the main Victoria college building; 'Old Vic'.
+END2
+START3
+You notice a flyer on the wall. It says, 'Burwash Study Space', and it was open...last night! Maybe you were here!
+After getting help to enter, you find nothing but tables. Just tables, and tables, more tables, a cheat sheet, more
+tables, and...wait! Cheat Sheet!!
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 12
+0
+START1
+You are in the middle of a road.
+END1
+START2
+You are in the middle of a road. You should probably move soon before a car hits you. If you head west then you will get
+to Convocation Hall. If you go south you will get to the Exam centre.
+END2
+END3
+You are still in the middle of the road. Does common sense not tell you to move? Okay, I'll tell you. Move!! A car is
+coming!
+END3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCATION 13
+0
+START1
+You are at the exam centre.
+END1
+START2
+You are at the exam centre. It is very busy with students doing last-minute cramming before their exams or just standing
+around waiting. Go north to re-enter campus.
+END2
+START3
+You made it to the exam centre! But wait...do you have everything you need? Your Cheat Sheet, T-Card, and Lucky Pen??
+Only one way to find out, I guess...
+Show the TA in charge and see if you get in.
+END3

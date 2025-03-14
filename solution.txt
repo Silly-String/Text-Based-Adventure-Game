@@ -1,0 +1,31 @@
+>>> go east
+>>> go south
+>>> go south
+>>> take
+>>> menu
+>>> inventory
+>>> go east
+>>> go south
+>>> take
+>>> menu
+>>> inventory
+>>> go north
+>>> go north
+>>> go east
+>>> menu
+>>> inventory
+>>> take
+>>> go west
+>>> go south
+>>> go south
+>>> go east
+>>> go south
+>>> drop
+>>> menu
+>>> inventory
+>>> drop
+>>> menu
+>>> inventory
+>>> drop
+>>> menu
+>>> inventory
